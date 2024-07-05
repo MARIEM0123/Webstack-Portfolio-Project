@@ -1,3 +1,4 @@
+                                      ---WEATHER_FORECAST_APPLICATION---
 An application that utilizes the OpenWeatherMap API to fetch and display the current weather conditions 
 Architecture Overview:
       o	HTML: Provides the structure of the webpage.
@@ -7,4 +8,6 @@ Architecture Overview:
        •	Applies colors, fonts, margins, and other styles to improve readability and user experiences.
       o	OpenWeatherMap API:
        •	Provides weather data including temperature, humidity, wind speed, and weather description.
+       
+
 
