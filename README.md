@@ -12,6 +12,7 @@ Architecture Overview:
        HERE IS THE LINK TO THE PRESENTATION:
        https://docs.google.com/document/d/18r2em97eyNwK-NhuTt1bzL7A2aPPABr-oiqwEVB49uQ/edit
        HERE IS THE LINK TO THE VIDEO: 
+       https://www.youtube.com/watch?v=h1BvgI65Y8E
        
        
        
