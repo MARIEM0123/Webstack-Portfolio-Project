@@ -8,6 +8,11 @@ Architecture Overview:
        •	Applies colors, fonts, margins, and other styles to improve readability and user experiences.
       o	OpenWeatherMap API:
        •	Provides weather data including temperature, humidity, wind speed, and weather description.
+       HERE IS THE LINK TO THE PRESENTATION:
+       https://docs.google.com/document/d/18r2em97eyNwK-NhuTt1bzL7A2aPPABr-oiqwEVB49uQ/edit
+       HERE IS THE LINK TO THE VIDEO:
+       
+       
        
 
 
