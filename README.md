@@ -9,7 +9,7 @@ Architecture Overview:
       o	OpenWeatherMap API:
        •	Provides weather data including temperature, humidity, wind speed, and weather description.
        HERE IS THE LINK TO THE PRESENTATION:
-       https://docs.google.com/document/d/18r2em97eyNwK-NhuTt1bzL7A2aPPABr-oiqwEVB49uQ/edit
+       https://docs.google.com/presentation/d/1lA9wUEOF6VXF_-fIZ2QagrjGlwlUKUhepWoy8-jzuoE/edit#slide=id.gd9c40d9f9_0_237
        HERE IS THE LINK TO THE VIDEO: 
        https://www.youtube.com/watch?v=h1BvgI65Y8E
        
