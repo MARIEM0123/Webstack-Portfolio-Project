@@ -34,12 +34,12 @@ body{
 }
 
 .current-date #am-pm{
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 60px;
+    margin-left: 60px;
 }
 
 .current-date .date{
-    font-size: 25px;
+    font-size: 60px;
 }
 
 .place-container{
