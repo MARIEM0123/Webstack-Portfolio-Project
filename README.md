@@ -12,6 +12,7 @@ Architecture Overview:
        https://docs.google.com/presentation/d/1lA9wUEOF6VXF_-fIZ2QagrjGlwlUKUhepWoy8-jzuoE/edit#slide=id.gd9c40d9f9_0_237
        HERE IS THE LINK TO THE VIDEO: 
        https://www.youtube.com/watch?v=h1BvgI65Y8E
+       THE LINK TO THE APPLICATION https://webweatherforecastapplic.netlify.app/
        
        
        
