@@ -1,4 +1,4 @@
-# Weather Forecast Application
+
 ## Introduction
 The Weather Forecast Application is a web-based app that allows users to check the current weather and get forecasts for the upcoming days. The app uses the OpenWeatherMap API to fetch weather data and dynamically displays the information on the site.
 
