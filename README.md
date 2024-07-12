@@ -21,7 +21,7 @@ index.html: Contains the basic structure of the page.
 interface.css: Contains the styles and design.
 Weather_code.js: Contains the code that fetches weather data and updates the page.
 ### Important Links
-- **Presentation:** [Google Presentation](https://docs.google.com/presentation/d/1lA9wUEOF6VXF_-fIZ2QagrjGlwlUKUhepWoy8-jzuoE/edit#slide=id.gd9c40d9f9_0_237) 
+- **Presentation:** [Google Presentation](https://docs.google.com/presentation/d/1lA9wUEOF6VXF_-fIZ2QagrjGlwlUKUhepWoy8-jzuoE/edit#slide=id.g742e3e7cd_1_16) 
 - **Video:** [YouTube Video](https://www.youtube.com/watch?v=h1BvgI65Y8E) 
 - **Application:** [Netlify Application](https://webweatherforecastapplic.netlify.app/) 
 
