@@ -43,8 +43,12 @@ function getWeatherData () {
         console.log(data)
         showWeatherData(data);
         })
-
-    })
+        .catch(error => {
+            console.error("Error fetching weather data: ", error);
+                   });
+    }, (error) => {
+        console.error("Error getting geolocation: ", error);
+    });
 }
 
 // Updating current fore-cast depending of the location
